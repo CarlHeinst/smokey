@@ -1,0 +1,35 @@
+*** Targets ***
+
+probe = FPing
+
+menu = World
+title = World
+remark = Clan Thorn Internet Monitor
+
++ Google_DNS1
+
+menu = Google
+title = Google Global DNS1
+host = 8.8.8.8
+alerts = bigloss,someloss,startloss
+
++ Google_DNS2
+
+menu = Google
+title = Google Global DNS2
+host = 8.8.4.4
+alerts = bigloss,someloss,startloss
+
++ BBC
+
+menu = BBC
+title = BBC
+host = bbc.co.uk
+alerts = bigloss,someloss,startloss
+
++ Bing
+
+menu = MIT
+title = Massachusetts Institute of Technology Webserver
+host = web.mit.edu
+alerts = bigloss,someloss,startloss
