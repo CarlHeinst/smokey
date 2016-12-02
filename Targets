@@ -38,6 +38,6 @@ alerts = bigloss,someloss,startloss
 
 menu = Amazon
 title = Amazon UK
-host = www.amazon.co.uk
+host = amazon.co.uk
 alerts = bigloss,someloss,startloss
 
