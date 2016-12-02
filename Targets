@@ -34,10 +34,10 @@ title = Microsoft Bing
 host = bing.com
 alerts = bigloss,someloss,startloss
 
-+ Amazon
++ Wikipedia
 
-menu = Amazon
-title = Amazon UK
-host = amazon.co.uk
+menu = Wikipedia
+title = Wikipedia
+host = en.wikipedia.org
 alerts = bigloss,someloss,startloss
 
