@@ -29,7 +29,15 @@ alerts = bigloss,someloss,startloss
 
 + Bing
 
-menu = MIT
-title = Massachusetts Institute of Technology Webserver
-host = web.mit.edu
+menu = Bing
+title = Microsoft Bing
+host = bing.com
 alerts = bigloss,someloss,startloss
+
++ Amazon
+
+menu = Amazon
+title = Amazon UK
+host = www.amazon.co.uk
+alerts = bigloss,someloss,startloss
+
